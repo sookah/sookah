@@ -16,7 +16,7 @@ Rust
 Python, Angular and Rust
 
 - 📫 How to reach me: ...
-supertrampsookah@gmail.com
+hi@saujanghimire.com
 
 - 😄 Pronouns: ...
 Developer
