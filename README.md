@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**sookah/sookah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hey its me Saujan 👋
 
 - 🔭 I’m currently working on ...
 Angular, python and some of that new Rust
@@ -28,5 +23,3 @@ Developer
 
 - ⚡ Fun fact: ...
 there is more at [saujanghimire.com](https://www.saujanghimire.com)
-
--->
