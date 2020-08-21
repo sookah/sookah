@@ -4,16 +4,16 @@
 Angular, python and some of that new Rust
 
 - 🌱 I’m currently learning ...
-Rust and angular
+Rust and Typescript
 
 - 👯 I’m looking to collaborate on ...
-Angular
+IoT projects and infrastructures
 
 - 🤔 I’m looking for help with ...
 Rust
 
 - 💬 Ask me about ...
-Python, Angular and Rust
+Python, Typescript and Rust
 
 - 📫 How to reach me: ...
 hi@saujanghimire.com
