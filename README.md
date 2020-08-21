@@ -1,10 +1,10 @@
 ### Hey its me Saujan 👋
 
 - 🔭 I’m currently working on ...
-Angular, python and some of that new Rust
+python, TypeScript and some of that new Rust
 
 - 🌱 I’m currently learning ...
-Rust and Typescript
+Rust and TypeScript
 
 - 👯 I’m looking to collaborate on ...
 IoT projects and infrastructures
