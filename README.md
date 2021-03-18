@@ -1,10 +1,10 @@
 ### Hey its me Saujan 👋
 
 - 🔭 I’m currently working on ...
-Python, TypeScript, Dart and Rust
+Python, TypeScript, Dart, Rust and Go
 
 - 🌱 I’m currently learning ...
-Rust and Dart
+Rust, Dart and Go
 
 - 👯 I’m looking to collaborate on ...
 IoT projects and infrastructures
@@ -19,7 +19,7 @@ Python, Typescript and Rust
 hi@saujanghimire.com
 
 - 😄 Pronouns: ...
-Developer
+Engineer and Developer
 
 - ⚡ Fun fact: ...
 there is more at [saujanghimire.com](https://www.saujanghimire.com)
