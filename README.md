@@ -24,4 +24,4 @@ Engineer and Developer
 - ⚡ Fun fact: ...
 there is more at [saujanghimire.com](https://www.saujanghimire.com)
 
-<a href="https://app.daily.dev/sookah"><img src="https://api.daily.dev/devcards/c870ee337d49465e9414dcf717829d34.png?r=u46" width="300" alt="Saujan Ghimire's Dev Card"/></a>
+<a href="https://github.com/sookah"><img src="https://github.com/sookah/sookah/blob/master/devcard.svg" width="300" alt="Saujan Ghimire's Dev Card"/></a>
