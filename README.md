@@ -1,19 +1,16 @@
 ### Hey its me Saujan 👋
 
 - 🔭 I’m currently working on ...
-Python, TypeScript, Dart, Rust and Go
+Python, TypeScript and Dart
 
 - 🌱 I’m currently learning ...
-Rust, Dart and Go
+System Integrations
 
 - 👯 I’m looking to collaborate on ...
 IoT projects and infrastructures
 
-- 🤔 I’m looking for help with ...
-Rust
-
 - 💬 Ask me about ...
-Python, Typescript and Rust
+Python, Typescript
 
 - 📫 How to reach me: ...
 hi@saujanghimire.com
