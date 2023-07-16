@@ -7,13 +7,13 @@ Python, TypeScript and Dart
 System Integrations
 
 - 👯 I’m looking to collaborate on ...
-IoT projects and infrastructures
+Web, IoT, XR and infrastructures
 
 - 💬 Ask me about ...
 Python, Typescript
 
 - 📫 How to reach me: ...
-hi@saujanghimire.com
+s.ghimire@i-ikigai.nl
 
 - 😄 Pronouns: ...
 Engineer and Developer
