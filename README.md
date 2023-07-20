@@ -4,19 +4,19 @@
 Python, TypeScript and Dart
 
 - 🌱 I’m currently learning ...
-System Integrations
+System Designs and Integrations
 
 - 👯 I’m looking to collaborate on ...
 Web, IoT, XR and infrastructures
 
 - 💬 Ask me about ...
-Python, Typescript
+Typescript, Python
 
 - 📫 How to reach me: ...
 s.ghimire@i-ikigai.nl
 
-- 😄 Pronouns: ...
-Engineer and Developer
+- Frameworks I use and love
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/i-ikigai/i-ikigai)
 
 - ⚡ Fun fact: ...
 there is more at [saujanghimire.com](https://www.saujanghimire.com)
